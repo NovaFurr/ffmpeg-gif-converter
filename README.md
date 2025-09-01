@@ -15,8 +15,6 @@ Call the script with 1 argument, a file's location, video, image doesn't matter.
 ```sudo pacman -S ffmpeg``
 
 
-
-
 ## Fedora, and it's spins
 
  ```sudo dnf install ffmpeg```
@@ -27,6 +25,18 @@ Call the script with 1 argument, a file's location, video, image doesn't matter.
 
 ## Other Distros
 I am unfortunately unable to provide information on other distros, please search up ```ffmpeg``` using your distro's package manager  
+
+# Other Operating Systems
+
+## Windows 10 / 11 
+We recommend installing software using winget, the Windows Package Manager.
+Before opening an issue, please review the official winget documentation to ensure your installation and configuration are correct.
+
+``` winget install Gyan.FFmpeg yt-dlp.yt-dlp  ```
+
+## macOS
+Currently not supported, as the developer does not have access to macOS for testing or validation.
+
 
 ## Legal: 
 This is free and unencumbered software released into the public domain.
