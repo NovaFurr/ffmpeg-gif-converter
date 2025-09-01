@@ -12,7 +12,7 @@ Call the script with 1 argument, a file's location, video, image doesn't matter.
 ```sudo emerge --ask media-video/ffmpeg```
 
 ## Arch, Manjaro, EndevourOS
-```sudo pacman -S ffmpeg``
+```sudo pacman -S ffmpeg```
 
 
 ## Fedora, and it's spins
