@@ -32,7 +32,7 @@ I am unfortunately unable to provide information on other distros, please search
 We recommend installing software using winget, the Windows Package Manager.
 Before opening an issue, please review the official winget documentation to ensure your installation and configuration are correct.
 
-``` winget install Gyan.FFmpeg yt-dlp.yt-dlp  ```
+``` winget install Gyan.FFmpeg ```
 
 ## macOS
 Currently not supported, as the developer does not have access to macOS for testing or validation.
